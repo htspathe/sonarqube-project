@@ -23,6 +23,9 @@ import os
 
 def run_command(cmd):
     os.system(cmd)
+print("New push test")
+
+
 
 
 # Appels dangereux
